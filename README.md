@@ -31,5 +31,5 @@ This project analyzes electric vehicle (EV) data from the Washington State Depar
 
 **Contact:**
 
-* Your Email Address: samar1patil@gmail.com
+* Email Address: samar1patil@gmail.com
 
